@@ -1,7 +1,6 @@
 ReadMe.md
 
 PlanZV für FNP (Flächennutzungsplan):
-SVG files for the German PlanZV for  FNP (Flächennutzungsplan)
 SVG-Dateien für Darstellungen nach PlanZV (FNP/Flächennutzungsplan)
 Die Dateien wurden in Zusammenarbeit der Stadt Halle (Saale), FB61, Hr. Mario Wittenberg und der IT-Consult Halle GmBH, Hrn. Mike Elstermann erstellt und zur Verfügung gestellt.
 Die Dateien können unter der freien Lizenz CC0 1.0 Universell (https://creativecommons.org/publicdomain/zero/1.0/deed.de) ohne Einschränkung genutzt und verbreitet werden.
